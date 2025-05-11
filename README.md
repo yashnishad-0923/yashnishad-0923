@@ -22,25 +22,57 @@
 
 ### Languages
 
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://cdn.worldvectorlogo.com/logos/c-1.svg" width="65" height="65" alt="C"/><br><b>C</b>
+    </td>
+    <td align="center">
+      <img src="https://cdn.worldvectorlogo.com/logos/c.svg" width="65" height="65" alt="C++"/><br><b>C++</b>
+    </td>
+    <td align="center">
+      <img src="https://cdn.worldvectorlogo.com/logos/java-14.svg" width="65" height="65" alt="Java"/><br><b>Java</b>
+    </td>
+    <td align="center">
+      <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" width="65" height="65" alt="Python"/><br><b>Python</b>
+    </td>
+  </tr>
+</table>
+
 
 ### Web Technologies
-
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+<table align="center">
+  <tr>
+ <td align="center">
+      <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width="65" height="65" alt="HTML"/><br><b>HTML</b>
+    </td>
+    <td align="center">
+      <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width="65" height="65" alt="CSS"/><br><b>CSS</b>
+    </td>
+    <td align="center">
+      <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" width="65" height="65" alt="JavaScript"/><br><b>JavaScript</b>
+    </td>
+  </tr>
+</table>
 
 ### Tools & Platforms
 
-![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
-![UiPath](https://img.shields.io/badge/UiPath-FE6600?style=for-the-badge&logo=uipath&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/VSCode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
----
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://cdn.worldvectorlogo.com/logos/git.svg" width="65" height="65" alt="Git"/><br><b>Git</b>
+    </td>
+    <td align="center">
+      <img src="https://cdn.worldvectorlogo.com/logos/github-icon-2.svg" width="65" height="65" alt="Github"/><br><b>Github</b>
+    </td>
+    <td align="center">
+      <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" width="65" height="65" alt="VS-Code"/><br><b>VS-Code</b>
+    </td>
+    <td align="center">
+      <img src="https://cdn.worldvectorlogo.com/logos/linux-tux.svg" width="65" height="65" alt="Linux"/><br><b>Linux</b>
+    </td>
+  </tr>
+</table>
 
 ## 📌 Featured Project
 
@@ -61,8 +93,14 @@
 
 ## 📫 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-nishad-371106252)  
-📧 Email: nishadyash99@gmail.com
+<a href="https://www.linkedin.com/in/yash-nishad-371106252" target="_blank" align="center">
+  <img  src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-3.svg" width="65" height="65" alt="LinkedIn"/>
+</a>
+
+<a href="mailto:nishadyash99@gmail.com" target="_blank" align="center">
+  <img  src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" width="65" height="65" alt="Gmail"/>
+</a>
+
 
 
 
