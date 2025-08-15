@@ -76,7 +76,7 @@
 
 ## 📌 Featured Project
 
-- 📎[PDF Tools](https://github.com/yashnishad-0923/PDF-Tools)
+- 📎[PDF Tools](https://yashnishad-0923-pdf-tools-app-iz0kov.streamlit.app/)
    An App that offers essential PDF functionalities including merging, compressing, encrypting, extracting pages, converting images to PDF, and DOCX to PDF conversion.
 
 - 🎙️ [Smart Assistant for You (S.A.Y.)](https://github.com/yashnishad-0923/SAY)  
