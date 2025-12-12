@@ -31,9 +31,6 @@
       <img src="https://cdn.worldvectorlogo.com/logos/c.svg" width="65" height="65" alt="C++"/><br><b>C++</b>
     </td>
     <td align="center">
-      <img src="https://cdn.worldvectorlogo.com/logos/java-14.svg" width="65" height="65" alt="Java"/><br><b>Java</b>
-    </td>
-    <td align="center">
       <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" width="65" height="65" alt="Python"/><br><b>Python</b>
     </td>
   </tr>
@@ -81,18 +78,6 @@
 
 - 🎙️ [Smart Assistant for You (S.A.Y.)](https://yashnishad-0923.github.io/Virtual-Assistant-S.A.Y./)  
   A voice-controlled virtual assistant using JavaScript, Web Speech API, and OpenWeatherMap.
-
-  
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yashnishad-0923&show_icons=true&theme=tokyonight" alt="Yash's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashnishad-0923&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
 
 ---
 
